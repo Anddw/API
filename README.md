@@ -1,0 +1,4 @@
+- Crear una API donde se pueda crear, consultar y editar usuarios
+- Crear un Endpoint donde se pueda subir documentos, los documentos solo pueden ser imagenes y PDF, los documentos deben ir ligados a un usuario
+- Los documentos se deben guardar en la carpeta resources/images dentro del proyecto
+- Crear un endpoint en el cual con el documento del usuario se pueda consultar el ultimo documento referente a un usuario
